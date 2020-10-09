@@ -1,0 +1,1 @@
+hello everybody in this project l designed my first google homepage imitation just to demonstate the html and css that l have learnt thus far and its not much but it is my first step hopefully into accuring the skill that are needed for me to become a web developer

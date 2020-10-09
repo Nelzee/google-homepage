@@ -1,0 +1,116 @@
+.nav-bar {
+    padding-top: 10px;
+    text-align: right;
+    font-size: 12px;
+    margin-right: 20px;
+
+}
+.nav-bar a {
+    padding-right: 10px;
+    color: black;
+    text-decoration: none;
+}
+
+.nav-bar button {
+    border-radius: 0px;
+    font-size: 1.1;
+    color: #fff;
+    background-color: #4285F4;
+    width: 4.5rem;
+    height: 1.8rem;
+    border: 0px;
+}
+.logo {
+    display: block;
+    padding-top: 120px;
+    height: 72px;
+    width: auto;
+    text-align: center;
+}
+
+.search-bar {
+    padding-top: 3rem;
+    text-align: center;
+    width: 100%;
+}
+
+#search-bar {
+    width: 36%;
+    height: 40px;
+    border-radius: 15px;
+    border: 1px solid rgb(224, 224, 224);
+} 
+
+#search-bar:hover {
+    box-shadow: 2px 5px 4px 1px rgb(207, 201, 201);
+}
+
+.buttons {
+    text-align: center;
+}
+.buttons button{
+    text-align: center;
+    border-radius: 5px;
+    border: 0px;
+    background-color: #f2f2f2;
+    color: #5F6368;
+    margin: 11px 4px;
+    padding: 0 16px;
+    height: 36px;
+    min-width: 54px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.buttons button:hover {
+    color: black;
+    background-color: white;
+}
+
+.languages {
+    display: block;
+    text-align: center;
+    padding: 30px;
+    font-size: 12px;
+    
+
+}
+.languages a {
+    text-decoration: none;
+    padding-right: 7px;
+    color: rgb(3, 16, 136);
+}
+
+.languages a:hover {
+    text-decoration: underline;
+}
+
+.footer-bar {
+    background-color: rgb(245, 239, 239);
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    color: rgb(85, 81, 81);
+    font-size: 15px;
+}
+
+.country {
+    padding-bottom: 20px;
+}
+.footer-bar1 {
+    background-color: rgb(245, 239, 239);
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+    color: rgb(85, 81, 81);
+    font-size: 15px;
+}
+.footer-bar1 a {
+    color: rgb(85, 81, 81);
+    text-decoration: none;
+}
+.footer-bar1 a:hover{
+    text-decoration: underline;
+}
+
+
+
